@@ -1,0 +1,11 @@
+npm init -y (crea package json)
+npm i express (expres)
+npm i handlebars (hbs- expres )(npm install hbs) para cambios sencillos
+npm i dotenv 
+
+preparacion para subir webser(2)
+el .env
+package.jon en scripts 
+"start": "node app.js"
+
+other .gitignore
